@@ -9,19 +9,19 @@
       <url>https://ba-seven.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ba-seven.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ba-seven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <atom:link href="https://ba-seven.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whoami</title>
       <link>https://ba-seven.github.io/whoami/</link>
-      <pubDate>Wed, 15 Mar 2023 20:01:27 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ba-seven.github.io/whoami/</guid>
-      <description>Welcome to my blog, I&amp;rsquo;m BA-Seven (or simply Seven), a french newbie h4x0r, to serve you.
-To sum up my infosec skills, I&amp;rsquo;m bad at pwn and barely decent in web (notice how I don&amp;rsquo;t even talk about crypto).
-Sharing here some of the things I found interesting through my journey.
-Member of the Subuthax team 🇫🇷 and active on root-me.org.
-Don&amp;rsquo;t hesitate to reach my or Discord or whatever if you liked this blog :)</description>
+      <description>&lt;p&gt;Welcome to my blog, I&amp;rsquo;m BA-Seven (or simply Seven), a french cybersecurity enthusiast.&lt;/p&gt;
+&lt;p&gt;I like to play CTFs and to break stuff.&lt;/p&gt;
+&lt;p&gt;Sharing here some of the things I found interesting through my journey.&lt;/p&gt;
+&lt;p&gt;Active on root-me.org and member of the (not so active anymore) Subuthax team 🇫🇷.&lt;/p&gt;
+&lt;p&gt;Reach me on Discord if any questions :)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
